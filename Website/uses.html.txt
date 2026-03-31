@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Use of AI</title>
+</head>
+
+<body>
+<h1>Use of AI</h1>
+<p>
+    Students use AI for research, writing assistance, tutoring,
+    and problem-solving.
+</p>
+
+<a href="index.html">⬅ Back Home</a>
+</body>
+</html>

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Benefits of AI</title>
+</head>
+
+<body>
+<h1>Benefits of AI</h1>
+<p>
+    AI improves learning efficiency, provides personalized education,
+    and helps students complete tasks faster.
+</p>
+
+<a href="index.html">⬅ Back Home</a>
+</body>
+</html>

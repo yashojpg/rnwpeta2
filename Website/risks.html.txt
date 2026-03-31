@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Risks of AI</title>
+</head>
+
+<body>
+<h1>Risks of AI</h1>
+<p>
+    AI may reduce critical thinking and lead to overdependence
+    if not used properly.
+</p>
+
+<a href="index.html">⬅ Back Home</a>
+</body>
+</html>

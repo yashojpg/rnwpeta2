@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>About AI</title>
+</head>
+
+<body>
+<h1>What is AI?</h1>
+<p>
+    Artificial Intelligence (AI) refers to machines that can perform tasks
+    that usually require human intelligence.
+</p>
+
+<a href="index.html">⬅ Back Home</a>
+</body>
+</html>
